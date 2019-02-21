@@ -1,3 +1,11 @@
 .placeno {
-  background-color: red;
+  background-color: rgb(161, 225, 115);
+}
+body {
+  background-color: rgb(215, 238, 203);
+  color: tomato;
+}
+.jumbotron {
+  background-color: cadetblue;
+  color: aliceblue;
 }
